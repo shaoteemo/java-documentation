@@ -1,4 +1,6 @@
-本文档翻译官方文档：https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html。版权信息请参考：https://www.oracle.com/java/technologies/javase-documentation.html。
+本文档翻译官方文档：https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html。
+
+版权信息请参考：https://www.oracle.com/java/technologies/javase-documentation.html。
 
 # Java™ 教程中文版之并发编程(官方版)
 
